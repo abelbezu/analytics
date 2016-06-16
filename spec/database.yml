@@ -1,0 +1,9 @@
+test:
+  adapter: mysql2
+  encoding: utf8
+  pool: 5
+  timeout: 5000
+  username: proctorserv
+  password: pr0ct0rcam
+  host: localhost
+  database: analytics_test
